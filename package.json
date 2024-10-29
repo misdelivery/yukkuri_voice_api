@@ -1,0 +1,13 @@
+{
+    "name": "aquestalk-api",
+    "version": "1.0.0",
+    "description": "Aquestalk voice synthesis API",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
+  
